@@ -30,4 +30,4 @@ Atualmente estou aprofundando meus conhecimentos em Linux, redes, programação 
 
 Aqui compartilho projetos, exercícios e estudos desenvolvidos durante minha formação e processo de aprendizado em tecnologia.
 
-📫 Contato: [seu e-mail profissional]
+📫 Contato: [Italoirias29@gmail.com]
