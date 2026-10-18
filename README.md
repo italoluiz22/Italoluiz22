@@ -32,5 +32,5 @@ Aqui compartilho projetos, exercícios e estudos desenvolvidos durante minha for
 
 📫 Contato: [iitalo.luiz.ramos@gmail.com]
 
-<img src="c(1).svg" alt="Linguagem C" width="80">
+<img src="c(1).svg" alt="Linguagem C" width="80">  <img src="c(1).svg" alt="Powershell" width="80">
 
