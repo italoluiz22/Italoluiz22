@@ -31,4 +31,5 @@ Atualmente estou aprofundando meus conhecimentos em Linux, redes, programação 
 Aqui compartilho projetos, exercícios e estudos desenvolvidos durante minha formação e processo de aprendizado em tecnologia.
 
 📫 Contato: [iitalo.luiz.ramos@gmail.com]
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+
