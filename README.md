@@ -32,5 +32,6 @@ Aqui compartilho projetos, exercícios e estudos desenvolvidos durante minha for
 
 📫 Contato: [iitalo.luiz.ramos@gmail.com]
 
-<img src="c.svg" alt="Linguagem C" width="80">  <img src="pws.svg" alt="Powershell" width="80">
+<img src="c.svg" alt="Linguagem C" width="80" hspace="30"><img src="pws.svg" alt="Powershell" width="90" hspace="30"><img src="kali.svg" alt="Kali Linux" width="80" hspace="30"><img src="bash.svg" alt="Bash" width="80" hspace="30"><img src="git.svg" alt="Git" width="80" hspace="30"><img src="linux.svg" alt="Git" width="80" hspace="30">
+<img src="tryhackme.svg" alt="Git" width="80" hspace="30">
 
